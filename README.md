@@ -1,1 +1,1 @@
-# evoting
+# Students' Internet voting system is a form of electronic voting that provides a mechnism for voters to cast their vote at their convenience. It saves voters time and energy from long queue and complex voting processes and procedures.
